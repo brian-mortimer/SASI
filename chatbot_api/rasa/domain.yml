@@ -1,0 +1,102 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - affirm
+  - deny
+  - mood_great
+  - mood_unhappy
+  - bot_challenge
+  - user_asks_how_are_you
+  - course_modules
+  - haystack_room_location
+  - haystack_course_codes
+  - user_asks_next_lecture
+  - user_supplies_courseName
+  - user_supplies_courseYear
+  - user_asks_timetable_question
+  - thanks
+  
+
+responses:
+  utter_please_rephrase:
+  - text: "I'm sorry, I didn't quite get that. Could you rephrase?"
+
+  utter_your_welcome:
+  - text: "Happy to help!"
+
+  utter_greet:
+  - text: "Hey, I'm SASI! How are you?"
+
+  utter_cheer_up:
+  - text: "I am sorry to hear that! How can I help?"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+
+  utter_happy:
+  - text: "That's great!"
+
+  utter_goodbye:
+  - text: "Bye"
+
+  utter_iamabot:
+  - text: "I am SASI, the Student Academic Support Intelligence bot."
+  
+  utter_good:
+  - text: "I'm doing great. How can I help?"  
+  
+  utter_ask_courseName:
+  - text: "Which course you are studying? e.g. Computer Science "
+
+  utter_ask_courseYear:
+  - text: "What year are you in? e.g. Year 2"
+
+  utter_submit:
+  - text: "Thanks, I'll try not to forget that."
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+
+actions:
+  - call_haystack_for_module_code
+  - call_haystack_for_room_location_question
+  - call_haystack_for_course_codes_question
+  - validate_course_form
+  - timetable_query
+
+entities:
+  - courseName
+  - courseYear
+  - module
+  - day
+  - time
+
+slots:
+  courseName:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: courseName
+      conditions:
+      - active_loop: course_form
+        requested_slot: courseName
+  courseYear:
+    type: text
+    mappings:
+    - type: from_entity
+      entity: courseYear
+      conditions:
+      - active_loop: course_form
+        requested_slot: courseYear
+
+
+forms:
+  course_form:
+    required_slots:
+      - courseName
+      - courseYear
+
+

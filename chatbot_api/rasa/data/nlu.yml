@@ -1,0 +1,185 @@
+version: "3.1"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - hey there
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+
+- intent: thanks
+  examples: |
+    - thanks
+    - thank you
+    - cheers!
+    - thank you very much
+    - sound
+    - nice one
+    - perfect
+    - sweet
+    - awesome
+    - thanks a lot
+
+- intent: goodbye
+  examples: |
+    - good bye
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+    - see ya
+
+- intent: affirm
+  examples: |
+    - yes
+    - y
+    - indeed
+    - of course
+    - that sounds good
+    - correct
+
+- intent: deny
+  examples: |
+    - no
+    - n
+    - never
+    - I don't think so
+    - don't like that
+    - no way
+    - not really
+
+- intent: mood_great
+  examples: |
+    - perfect
+    - great
+    - amazing
+    - feeling like a king
+    - wonderful
+    - I am feeling very good
+    - I am great
+    - I am amazing
+    - I am going to save the world
+    - super stoked
+    - extremely good
+    - so so perfect
+    - so good
+    - so perfect
+    - grand
+    - good
+    
+- intent: mood_unhappy
+  examples: |
+    - my day was horrible
+    - I am sad
+    - I don't feel very well
+    - I am disappointed
+    - super sad
+    - I'm so sad
+    - sad
+    - very sad
+    - unhappy
+    - not good
+    - not very good
+    - extremly sad
+    - so saad
+    - so sad
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+
+- intent: user_asks_how_are_you
+  examples: |
+    - how are you?
+    - good you?
+    - you?
+    - yourself?
+    - how about you?
+
+- intent: course_modules
+  examples: |
+    - what module code?
+    - what is the module code?
+    - which module?
+    - which module has code?
+    - what code for module?  
+
+- intent: haystack_room_location
+  examples: |
+    - Where is the room?
+    - where is
+    - In what building it the room?
+    - Where can I find the room?
+    - Where is FG042?
+    - Where can I find A1050?
+    - Where can I find the room LCO017?
+    - what building is CG053?
+    - Where is the lab A0060B located?
+    - Which building is ER0008 in?
+    - In which building is S119 situated?
+    - wheres s117?
+    - wheres
+
+- intent: haystack_course_codes
+  examples: |
+    - what is the course code for mechanical engineering?
+    - What course has the code lm118?
+    - what course has the course code LM125
+    - Whats the code for computer systems?
+    - what is the course code for equine science?
+    - what is the course code for
+    - what course has the code
+    - what is the code for the course
+
+- intent: user_asks_timetable_question
+  examples: |
+    - what time is [EE6452](module) for [Electronic Engineering](courseNameECE) [year 1](courseYear) on [Thursday](day)?
+    - what module is on at [14:00](time) on [Friday](day) for [Electronic and Computer Engineering](courseNameECE)?
+    - what time is [PH4042](module) on [Friday](day)?
+    - what module starts at [14:00](time) for [Computer Science](courseNameCS) [Year 2](courseYear)
+
+- intent: user_asks_next_lecture
+  examples: |
+    - what time is my next lecture?
+    - when is my next lecture?
+    - what do i have coming up next?
+    - what is the timetable for [Computer Science](courseNameCS) [1st year](courseYear) on [Monday](day)?
+    - what is my timetable
+
+- intent: user_supplies_courseName
+  examples: |
+    - Yes, I am doing [Computer Science](courseName)
+    - [computer science](courseName)
+    - I am studying [Computer Science](courseName)
+    - [compsci](courseName)
+    - Im studying [computer science](courseName)
+    - [cs](courseName)
+    - [computer science](courseName)
+    - Yes, I am doing [Electronic and Computer Engineering](courseName)
+    - [Electronic Engineering](courseName)
+    - I am studying [ece](courseName)
+    - im studying [ECE](courseName)
+    - [Electronic and computer engineering](courseName)
+
+- intent: user_supplies_courseYear
+  examples: |
+    - [Year 1](courseYear)
+    - I'm in [second year](courseYear)
+    - I am in [Year 4](courseYear)
+
+

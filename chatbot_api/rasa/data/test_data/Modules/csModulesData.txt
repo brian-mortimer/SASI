@@ -1,0 +1,35 @@
+The module Foundations of Computer Science has the module code CS4182
+The module Computing Systems Organisation has the module code ET4162
+The module Computer Maths has the module code MA4402
+The module Games Modelling Design has the module code CS4043
+The module Software Development has the module code CS4222
+
+The module Circuit Analysis has the module code EE4012
+The module Engineering Mathematics 2 has the module code MA4002
+The module Digital Systems 1 has the module code EE4522
+The module Semiconductor Device Fundamentals has the module code EE4022
+The module Computer Software 2 has teh module code CE4702
+
+The module Communications and Networks Protocols has the module code EE4044
+The moduel Active Circuit Design 2 has the module code EE4314
+The module Control 1 has the module code EE4214
+The module Digital Systems 3 has the module code EE4524
+The module Engineering Mathematics 4 has the module code MA4004
+
+The module Active Circuits 4 has the module code EE4317
+The module Telecommunications Fundamentals has the module code EE4034
+The module Signals and Systems 1 has the module code EE4816
+The module Operating Systems 2 has the module code CE4206
+The module Language Processors has the module code CE4717
+The module Electrical Energy has the module code EE4024
+The module Robotics 1 has the module code ET4224
+
+The module Digital Control has the module code EE6452
+The module Thermal Physics has the module code PH4042
+The module Spatial Robotics has the module code RE4002
+The module Computer Architecture has the module code CE4518
+The module Tensor and GPU Fundamentals has the module code EE4032
+The module Energy Demand Managment has the module code EE4042
+The module Electromagnetics 1 has the module code EE4117
+The module Machine Vision has the module code RE4012
+The module Communication and Security Protocols has the module code EE6032

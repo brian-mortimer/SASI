@@ -1,0 +1,63 @@
+version: "3.1"
+
+rules:
+
+- rule: Greet the user anytime the user greets you
+  steps:
+  - intent: greet
+  - action: utter_greet
+
+- rule: Say goodbye anytime the user says goodbye
+  steps:
+  - intent: goodbye
+  - action: utter_goodbye
+
+- rule: Say 'I am a bot' anytime the user challenges
+  steps:
+  - intent: bot_challenge
+  - action: utter_iamabot
+
+- rule: Say 'Happy to help!' anytime the user thanks
+  steps:
+  - intent: thanks
+  - action: utter_your_welcome
+  
+- rule: Respond anytime the user asks how are you
+  steps:
+  - intent: user_asks_how_are_you
+  - action: utter_good
+
+- rule: Query Haystack when user asks for module code
+  steps:
+  - intent: course_modules
+  - action: call_haystack_for_module_code
+
+- rule: Query Haystack anytime the user asks for room location
+  steps:
+  - intent: haystack_room_location
+  - action: call_haystack_for_room_location_question
+
+- rule: Query Haystack anytime the user asks for course codes
+  steps:
+  - intent: haystack_course_codes
+  - action: call_haystack_for_course_codes_question
+
+- rule: Activate Course Form
+  steps:
+    - intent: user_asks_next_lecture
+    - action: course_form
+    - active_loop: course_form
+
+- rule: Submit form
+  condition:
+  - active_loop: course_form
+  steps:
+  - action: course_form
+  - active_loop: null
+  - slot_was_set:
+    - requested_slot: null
+
+- rule: timetable query
+  steps:
+  - intent: user_asks_timetable_question
+  - action: timetable_query

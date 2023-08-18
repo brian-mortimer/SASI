@@ -1,0 +1,27 @@
+The lab A0060A is located in the main building.
+The lab A0060B is located in the main building.
+The lab A0060C is located in the main building.
+The lab A1-089 is located in the main building.
+The lab GEMS1023 is located in the Graduate Entry Medical School.
+The lab GEMS1024 is located in the Graduate Entry Medical School.
+The lab GEMS2029 is located in the Graduate Entry Medical School.
+The lab KB121A is located in the Kemmy Business School.
+The lab KB121B is located in the Kemmy Business School.
+The lab Large Training Room is located in the Glucksman Library.
+The lab LC1002 is located in the Languages Building.
+The lab LCB012 is located in the Languages Building.
+The lab LIBOA is located in the Glucksman Library.
+The lab LIBOA 1 is located in the Glucksman Library.
+The lab LIBOA 2 - Post Grad is located in the Glucksman Library.
+The lab Library Data Visualization Suite is located in the Glucksman Library.
+The lab S119 is located in the Schuman Building.
+The lab S204 is located in the Schuman Building.
+The lab Small Training Room is located in the Glucksman Library.
+The lab FB012 is located in the School Of Design.
+The lab AM061 is located in the School Of Engineering.
+The lab LB008 is located in the School Of Engineering.
+The lab SR2071 is located in the School Of Engineering.
+The lab SR3004A is located in the School Of Engineering.
+The lab SR3004B is located in the School Of Engineering.
+The lab SR3005B is located in the School Of Engineering.
+The lab SR3015B is located in the School Of Engineering."

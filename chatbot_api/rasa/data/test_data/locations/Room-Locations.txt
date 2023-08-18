@@ -1,0 +1,99 @@
+The room AD2010 is located in the Analog building.
+The room CSG001 is located in the CSIS building.
+The room CSG025 is located in the CSIS building.
+The room ER0008 is located in the Engineering Research building.
+The room ER2011 is located in the Engineering Research building.
+The room ERB001 is located in the Engineering Research building.
+The room ERB006 is located in the Engineering Research building.
+The room ERB007 is located in the Engineering Research building.
+The room ERB008 is located in the Engineering Research building.
+The room FB028 is located in the Foundation building.
+The room FG042 is located in the Foundation building.
+The room FG061 is located in the Foundation building.
+The room GEMS0016 is located in the GEMS building.
+The room HSG008A is located in the Health Sciences building.
+The room HSG021 is located in the Health Sciences building.
+The room HSG022 is located in the Health Sciences building.
+The room HSG023 is located in the Health Sciences building.
+The room HSG024 is located in the Health Sciences building.
+The room HSG025 is located in the Health Sciences building.
+The room HSG030 is located in the Health Sciences building.
+The room HSG031 is located in the Health Sciences building.
+The room HSG037 is located in the Health Sciences building.
+The room KB118 is located in the KBS building.
+The room KB119 is located in the KBS building.
+The room KBG10 is located in the KBS building.
+The room KBG11 is located in the KBS building.
+The room KBG12 is located in the KBS building.
+The room KBG13 is located in the KBS building.
+The room KBG14 is located in the KBS building.
+The room KBG15 is located in the KBS building.
+The room LCB002 is located in the Languages building.
+The room LCB003 is located in the Languages building.
+The room LCB009 is located in the Languages building.
+The room LCB009A is located in the Languages building.
+The room LCB010 is located in the Languages building.
+The room LCB015 is located in the Languages building.
+The room LCO002 is located in the Languages building.
+The room LCO003 is located in the Languages building.
+The room LCO017 is located in the Languages building.
+The room LG011 is located in the Lonsdale building.
+The room A1050 is located in the Main Building.
+The room A1051 is located in the Main Building.
+The room A1052 is located in the Main Building.
+The room A1053 is located in the Main Building.
+The room A1054 is located in the Main Building.
+The room A1055 is located in the Main Building.
+The room B1005 is located in the Main Building.
+The room B1005A is located in the Main Building.
+The room B1023 is located in the Main Building.
+The room BM015 is located in the Main Building.
+The room C0078 is located in the Main Building.
+The room C0079 is located in the Main Building.
+The room C1058 is located in the Main Building.
+The room C1059 is located in the Main Building.
+The room C1060 is located in the Main Building.
+The room C1061 is located in the Main Building.
+The room C1062 is located in the Main Building.
+The room C1063 is located in the Main Building.
+The room CG053 is located in the Main Building.
+The room CG054 is located in the Main Building.
+The room CG055 is located in the Main Building.
+The room CG057 is located in the Main Building.
+The room CG058 is located in the Main Building.
+The room CG059 is located in the Main Building.
+The room D1050 is located in the Main Building.
+The room DG016 is located in the Main Building.
+The room EG006 is located in the Main Building.
+The room EGO10 is located in the Main Building.
+The room EM009 is located in the Main Building.
+The room EM010 is located in the Main Building.
+The room MCO010 is located in the Millstream Building.
+The room P1003 is located in the PESS Building.
+The room P1004 is located in the PESS Building.
+The room P1005 is located in the PESS Building.
+The room P1006 is located in the PESS Building.
+The room P1031 is located in the PESS Building.
+The room P1033 is located in the PESS Building.
+The room S114 is located in the Schuman Building.
+The room S115 is located in the Schuman Building.
+The room S116 is located in the Schuman Building.
+The room S117 is located in the Schuman Building.
+The room S201 is located in the Schuman Building.
+The room S205 is located in the Schuman Building.
+The room S206 is located in the Schuman Building.
+The room SG15 is located in the Schuman Building.
+The room SG16 is located in the Schuman Building.
+The room SG17 is located in the Schuman Building.
+The room SG18 is located in the Schuman Building.
+The room SG19 is located in the Schuman Building.
+The room SG20 is located in the Schuman Building.
+The room SG21 is located in the Schuman Building.
+The room SG21A is located in the Schuman Building.
+The room SR2027 is located in the Science & Education Building.
+The room SR2028 is located in the Science & Education Building.
+The room SR2029 is located in the Science & Education Building.
+The room SR2030 is located in the Science & Education Building.
+The room SR3006 is located in the Science & Education Building.
+The room SR3007 is located in the Science & Education Building.
+The room SR3008 is located in the Science & Education Building."

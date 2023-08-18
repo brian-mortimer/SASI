@@ -1,0 +1,91 @@
+The course Bachelor of Laws (Evening degree programme) has the course code LM002.
+The course Bachelor of Arts in Economics has the course code LM002.
+The course Bachelor of Arts in English has the course code LM002.
+The course Bachelor of Arts in French has the course code LM002.
+The course Bachelor of Arts in Gaeilge has the course code LM002.
+The course Bachelor of Arts in Geography has the course code LM002.
+The course Bachelor of Arts in German has the course code LM002.
+The course Bachelor of Arts in History has the course code LM002.
+The course Bachelor of Arts in Music and Dance has the course code LM002.
+The course Bachelor of Arts in Linguistics with TESOL has the course code LM002.
+The course Bachelor of Arts in Mathematics has the course code LM002.
+The course Bachelor of Arts in Digital Culture and Communications has the course code LM002.
+The course Bachelor of Arts in Politics and International Relations has the course code LM002.
+The course Bachelor of Arts in Psychology has the course code LM002.
+The course Bachelor of Arts in Public Administration and Leadership has the course code LM002.
+The course Bachelor of Arts in Sociology has the course code LM002.
+The course Bachelor of Arts in Spanish has the course code LM002.
+The course Bachelor of Science in Social Sciences has the course code LM019.
+The course Bachelor of Arts in Law and Accounting has the course code LM020.
+The course Bachelor of Arts in Criminal Justice has the course code LM028.
+The course Bachelor of Laws (Law Plus) has the course code LM029.
+The course Bachelor of Arts in Psychology and Sociology has the course code LM038.
+The course Bachelor of Arts in Journalism and Digital Communication has the course code LM039.
+The course Bachelor of Arts in European Studies has the course code LM040.
+The course Bachelor of Arts in Applied Languages has the course code LM044.
+The course Bachelor of Business Studies has the course code LM050.
+The course Bachelor of Arts in International Business has the course code LM056.
+The course Bachelor of Science in Financial Mathematics has the course code LM058.
+The course Bachelor of Science in Technology Management has the course code LM063.
+The course Bachelor of Science in Environmental Science has the course code LM066.
+The course Bachelor of Science in Food Science and Health has the course code LM068.
+The course Bachelor of Science in Product Design and Technology has the course code LM076.
+The course Bachelor/Masters of Engineering in Aeronautical Engineering has the course code LM077.
+The course Bachelor of Science in Construction Management and Engineering has the course code LM082.
+The course Bachelor of Science in Sport and Exercise Sciences has the course code LM089.
+The course Bachelor of Science in Physical Education has the course code LM090.
+The course Bachelor of Education in Languages has the course code LM091.
+The course Bachelor of Science with concurrent Teacher Education (Science Education with Physics OR Chemistry OR Agricultural Science) has the course code LM092.
+The course Bachelor of Science in Equine Science has the course code LM093.
+The course Bachelor of Technology (Education) in Graphics and Construction Technology concurrent with Teacher Education has the course code LM094.
+The course Bachelor of Technology (Education) in Graphics, Engineering and Technology concurrent with Teacher Education has the course code LM095.
+The course Bachelor of Science with concurrent Teacher Education (Physical Sciences with Chemistry AND Physics) has the course code LM096.
+The course Bachelor of Science (Education) in Mathematics and Computer Science has the course code LM097.
+The course Bachelor of Architecture has the course code LM099.
+The course Bachelor of Science in Physiotherapy has the course code LM100.
+The course Bachelor of Medicine, Bachelor of Surgery (Graduate Entry) has the course code LM101.
+The course Bachelor of Science in Psychology has the course code LM102.
+The course Bachelor of Science in Paramedic Studies has the course code LM103.
+The course Bachelor of Science in Exercise & Health Fitness Management has the course code LM105.
+The course Bachelor of Engineering in Chemical & Biochemical Engineering has the course code LM115.
+The course Engineering (Common Entry) has the course code LM116.
+The course Bachelor/Masters of Engineering in Biomedical Engineering has the course code LM116.
+The course Bachelor/Master of Engineering in Civil Engineering has the course code LM116.
+The course Bachelor of Engineering in Design and Manufacture has the course code LM116.
+The course Bachelor/Master of Engineering in Mechanical Engineering has the course code LM116.
+The course Bachelor/Master of Engineering in Digital Mechatronic Engineering has the course code LM116.
+The course Bachelor/Master of Engineering in Electronic and Computer Engineering has the course code LM118.
+The course Computer Science Common Entry has the course code LM121.
+The course Bachelor of Science in Computer Systems has the course code LM121.
+The course Bachelor of Science Computer Games Development has the course code LM121.
+The course Bachelor of Science in Cyber Security and IT Forensics has the course code LM121.
+The course Creative Media and Interaction Design Common Entry has the course code LM122.
+The course Bachelor of Science in Digital Media Design has the course code LM122.
+The course Bachelor of Science in Music, Media & Performance Technology has the course code LM122.
+The course Biological and Chemical Sciences (Common Entry) has the course code LM123.
+The course Bachelor of Science in Bioscience has the course code LM123.
+The course Bachelor of Science in Environmental Science has the course code LM123.
+The course Bachelor of Science in Industrial Biochemistry has the course code LM123.
+The course Bachelor of Science in Pharmaceutical and Industrial Chemistry has the course code LM123.
+The course Bachelor of Science in Biomedical Science has the course code LM123.
+The course Mathematics (Common Entry) has the course code LM124.
+The course Bachelor of Science in Mathematical Sciences has the course code LM124.
+The course Bachelor of Science in Mathematics and Physics has the course code LM124.
+The course Bachelor of Science in Economics and Mathematics has the course code LM124.
+The course Physics (Common Entry) has the course code LM125.
+The course Bachelor of Science in Applied Physics has the course code LM125.
+The course Bachelor of Science in Mathematics and Physics has the course code LM125.
+The course Bachelor of Arts in Irish Music has the course code LM131.
+The course Bachelor of Arts in Irish Dance has the course code LM132.
+The course Bachelor of Arts in Contemporary Dance has the course code LM133.
+The course Bachelor of Arts in Voice has the course code LM134.
+The course Bachelor of Arts in World Music has the course code LM135.
+The course Bachelor of Science in Nursing (General) has the course code LM150.
+The course Bachelor of Science in Nursing (Mental Health) has the course code LM152.
+The course Bachelor of Science in Nursing (Intellectual Disability) has the course code LM154.
+The course Bachelor of Science in Midwifery has the course code LM156.
+The course Bachelor of Science in Immersive Software Engineering has the course code LM173.
+The course Bachelor/Master of Science in Artificial Intelligence and Machine Learning has the course code LM174.
+The course Certificate in Equine Science | Diploma in Equine Science has the course code LM180.
+The course Bachelor of Science in Nursing Studies (for international students) has the course code LM196.
+The course Bachelor of Science in Paramedic Studies (Practitioner Entry) has the course code LM263.

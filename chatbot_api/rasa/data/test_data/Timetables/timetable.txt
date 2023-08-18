@@ -1,0 +1,170 @@
+Computer Science - Year 1 - Monday
+CS4182:09:00-10:00
+ET4162:10:00-11:00
+MA4402:11:00-12:00
+ET4162:12:00-14:00
+CS4182:14:00-15:00
+ET4162:15:00-16:00
+MA4402:16:00-17:00
+
+Computer Science - Year 1 - Tuesday:
+CS4043:09:00-10:00
+CS4182:10:00-11:00
+CS4043:12:00-14:00
+ET4162:14:00-16:00
+CS4182:16:00-17:00
+
+Computer Science - Year 1 - Wednesday:
+ET4162:09:00-10:00
+CS4043:11:00-13:00
+
+Computer Science - Year 1 - Thursday:
+ET4162:09:00-10:00
+MA4402:10:00-11:00
+ET4162:11:00-12:00
+CS4182:12:00-13:00
+CS4222:13:00-14:00
+CS4043:14:00-16:00
+ET4162:16:00-18:00
+
+Computer Science - Year 1 - Friday:
+ET4162:09:00-11:00
+CS4182:11:00-12:00
+CS4222:13:00-14:00
+CS4182:14:00-15:00
+CS4043:15:00-17:00
+
+Electronic and Computer Engineering - Year 1 - Monday:
+EE4012:09:00-11:00
+EE4012:11:00-12:00
+MA4002:13:00-14:00
+EE4522:15:00-16:00
+EE4022:16:00-17:00
+
+Electronic and Computer Engineering - Year 1 - Tuesday:
+EE4022:09:00-10:00
+EE4522:10:00-11:00
+EE4022:13:00-15:00
+MA4002:16:00-17:00
+
+Electronic and Computer Engineering - Year 1 - Wednesday:
+EE4522:10:00-12:00
+CE4702:15:00-18:00
+EE4012:16:00-17:00
+
+Electronic and Computer Engineering - Year 1 - Thursday:
+CE4702:10:00-11:00
+MA4002:13:00-15:00
+
+Electronic and Computer Engineering - Year 1 - Friday:
+EE4012:09:00-11:00
+EE4522:11:00-13:00
+MA4002:13:00-14:00
+EE4022:14:00-16:00
+MA4002:16:00-18:00
+
+Timetable- Electronic and Computer Engineering - Year 2 - Monday:
+EE4044:10:00-11:00
+EE4314:11:00-12:00
+MA4004:12:00-13:00
+EE4214:13:00-14:00
+
+Timetable- Electronic and Computer Engineering - Year 2 - Tuesday:
+EE4524:12:00-13:00
+MA4004:14:00-15:00
+EE4044:15:00-16:00
+MA4004:17:00-18:00
+
+Timetable- Electronic and Computer Engineering - Year 2 - Wednesday:
+MA4004:09:00-10:00
+MA4004:13:00-14:00
+EE4314:14:00-16:00
+EE4524:16:00-17:00
+
+Timetable- Electronic and Computer Engineering - Year 2 - Thursday:
+MA4004:09:00-10:00
+MA4004:12:00-13:00
+EE4314:13:00-15:00
+EE4214:15:00-16:00
+EE4044:16:00-18:00
+
+Timetable- Electronic and Computer Engineering - Year 2 - Friday:
+EE4214:09:00-10:00
+EE4524:13:00-15:00
+MA4004:14:00-16:00
+EE4524:16:00-18:00
+
+Electronic and Computer Engineering - Year 3 - Monday:
+EE4317:09:00-10:00
+EE4034:10:00-11:00
+EE4816:12:00-14:00
+CE4206:14:00-15:00
+CE4717:15:00-16:00
+EE4216:16:00-17:00
+CE4717:17:00-18:00
+
+Electronic and Computer Engineering - Year 3 - Tuesday:
+EE4024:09:00-11:00
+EE4034:12:00-14:00
+EE4034:14:00-15:00
+EE4024:15:00-17:00
+
+Electronic and Computer Engineering - Year 3 - Wednesday:
+EE4816:09:00-11:00
+ET4224:11:00-13:00
+ET4224:13:00-14:00
+ET4224:15:00-16:00
+EE4317:16:00-18:00
+
+Electronic and Computer Engineering - Year 3 - Thursday:
+EE4216:09:00-10:00
+EE4024:11:00-12:00
+CE4717:12:00-13:00
+EE4034:13:00-15:00
+EE4216:15:00-16:00
+EE4034:17:00-18:00
+
+Electronic and Computer Engineering - Year 3 - Friday:
+CE4206:09:00-11:00
+ET4224:11:00-13:00
+ET4224:14:00-15:00
+ET4224:15:00-16:00
+ET4224:16:00-17:00
+
+Electronic and Computer Engineering - Year 4 - Monday:
+EE6452:09:00-10:00
+PH4042:10:00-12:00
+RE4002:12:00-13:00
+CE4518:13:00-14:00
+EE4032:14:00-16:00
+EE4042:16:00-18:00
+
+Electronic and Computer Engineering - Year 4 - Tuesday:
+PH4042:09:00-10:00
+EE4117:11:00-12:00
+RE4002:12:00-13:00
+EE4042:13:00-14:00
+EE4032:15:00-17:00
+RE4012:17:00-18:00
+
+Electronic and Computer Engineering - Year 4 - Wednesday:
+EE6032:09:00-11:00
+EE6452:13:00-14:00
+PH4042:16:00-17:00
+
+Electronic and Computer Engineering - Year 4 - Thursday:
+EE4038:09:00-10:00
+EE4117:10:00-11:00
+EE4038:12:00-13:00
+EE4042:13:00-15:00
+EE4032:15:00-17:00
+
+Electronic and Computer Engineering - Year 4 - Friday:
+RE4002:09:00-10:00
+EE6032:10:00-11:00
+PH4042:11:00-12:00
+EE4117:12:00-13:00
+EE4038:13:00-14:00
+CE4518:14:00-15:00
+CE4518:15:00-16:00
+CE4208:16:00-18:00
