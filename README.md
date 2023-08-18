@@ -1,9 +1,10 @@
-# Team-Santa-Clara
-This is the Team Santa Clara repo here you will build great things!
+# Student Academic Support Intelligence.
+This project was completed as part of the Intel STEM Challenge 2023.
 
+I was the Team Lead for our team, we created a AI Chatbot in 10 weeks. On the final week we presented our project to a panel of judges along with 5 other teams.
+We were delighted to be awarded the STEM Challenge 2023 Winners.
 
-
-# Running Project
+## Running Project
 
 1.  Ensure system is up-to date.
     Ubuntu:
